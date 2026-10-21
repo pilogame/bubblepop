@@ -59,4 +59,4 @@ We may update this policy when the App changes. The date at the top shows the la
 
 ## Contact
 
-Questions or requests about privacy: https://github.com/pilogame/bubblepop/issues
+Questions or requests about privacy: pilogame10@gmail.com or https://github.com/pilogame/bubblepop/issues
