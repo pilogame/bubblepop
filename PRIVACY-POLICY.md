@@ -1,6 +1,6 @@
 # Bubble Pop — Privacy Policy
 
-_Last updated: 2026-10-21_
+_Last updated: 2026-10-26_
 
 This policy explains what the mobile game Bubble Pop (package com.pilogame.bubblepop, “the App”, “we”), published by Pilogame, collects, why, and the choices you have.
 
@@ -10,7 +10,7 @@ This policy explains what the mobile game Bubble Pop (package com.pilogame.bubbl
 - Your game progress (stages, stars, gems, settings) is stored only on your device.
 - We use Google Analytics for Firebase to understand how the game is played.
 - Purchases are processed by Google Play. We never see your payment details.
-- The App currently shows no advertising.
+- The App shows ads from Google AdMob: full-screen ads between stages and optional rewarded videos you choose to watch.
 - We never ask for your name, email, contacts, photos or location permissions.
 
 ## Information stored on your device
@@ -23,7 +23,7 @@ We use Google Analytics for Firebase to measure how the game is used and to impr
 
 Firebase also collects automatically: an app-instance identifier, the device’s advertising ID where available, device model, operating system version, app version, language and approximate location derived from the IP address (country/region). This data is not used to identify you personally.
 
-Analytics storage is on. Because the App shows no ads, advertising-related signals (ad storage, ad user data, ad personalization) are always sent as “denied”.
+Analytics storage is on. Advertising-related signals from Firebase (ad storage, ad user data, ad personalization) are sent as “denied”; ad personalization is controlled only by Google AdMob as described below.
 
 Google’s privacy policy: https://policies.google.com/privacy · How Google uses data from apps: https://policies.google.com/technologies/partner-sites
 
@@ -33,13 +33,13 @@ The shop sells packs of gems (in-game currency). Payments are handled entirely b
 
 ## Advertising
 
-The App currently contains no advertising SDK and shows no ads. If ads are added in a future version, this policy will be updated before that version is released and you will be asked for consent where required.
+The App uses Google AdMob to show ads: an occasional full-screen ad between stages or after a game over (never during play and not in the first 10 stages), and rewarded videos that you choose to watch to continue a run or double your gems. AdMob may collect your device’s advertising ID, IP address, approximate location, device information and ad interactions to deliver, measure and, where allowed, personalize ads and to prevent fraud. In the EEA, the UK and Switzerland the App shows Google’s consent form (User Messaging Platform) before ads are requested, and you can choose non-personalized ads. You can also opt out of personalized ads or reset your advertising ID in your device settings. Buying “Remove Ads” turns off the full-screen ads. Google’s policy on ads: https://policies.google.com/technologies/ads
 
 ## Permissions
 
 - Internet and network state — to send analytics and to contact Google Play for purchases.
 - Vibration — for haptic feedback (can be turned off in Settings).
-- Advertising ID — read by Google Analytics for Firebase as described above. You can reset or delete it in your device’s Google settings.
+- Advertising ID — read by Google AdMob and Google Analytics for Firebase as described above. You can reset or delete it in your device’s Google settings.
 
 ## Children
 
